@@ -64,8 +64,8 @@ HTML5 · CSS3 (flexbox, grid, media queries) · vanilla JavaScript (DOM events, 
 ## Running locally
 
 ```bash
-git clone https://github.com/Santi2065/Garage-Website.git
-cd Garage-Website
+git clone https://github.com/Santi2065/parking-garage-website.git
+cd parking-garage-website
 xdg-open index.html        # or: python3 -m http.server, then open http://localhost:8000
 ```
 
